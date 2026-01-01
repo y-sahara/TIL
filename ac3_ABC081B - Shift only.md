@@ -1,4 +1,4 @@
-# ABC081B
+# ABC081B - Shift only
 
 ``` JavaScript
 'use strict'
